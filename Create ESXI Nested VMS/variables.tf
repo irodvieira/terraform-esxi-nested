@@ -1,0 +1,15 @@
+variable "vsphere_server" {}
+variable "vsphere_user" {}
+variable "vsphere_password" {}
+variable "esxi2_user" {}
+variable "esxi2_password" {}
+variable "count_vm" {}
+variable "vm_name" {}
+variable "disk" {}
+#variable "disk1" {}
+#variable "disk2" {}
+#variable "disk3" {}
+#variable "disk4" {}
+#variable "disk5" {}
+#variable "disk6" {}
+#variable "disk7" {}
